@@ -27,7 +27,6 @@ export const jobList = [
   },
   {
     jobTitle: "Sign Language Interpreter",
-
     Company: "Deaf Education Institute",
     Deadline: "2024-04-10 23:59",
     Description:
